@@ -19,7 +19,7 @@ This project is an end-to-end Python application for retrieving the latest crypt
 3. Run the file `CryptoGraphRetriever.exe`
 
 
-## Or if you want to run with source Code :
+## Or if you want to run with source Code (10kB?):
 
 1. Clone the repository:
 
